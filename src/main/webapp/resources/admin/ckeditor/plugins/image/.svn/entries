@@ -1,0 +1,38 @@
+10
+
+dir
+5
+http://192.168.1.23:81/svn/ultrasmartmailernew/UltraSmartMailer/src/main/webapp/resources/ckeditor/plugins/image
+http://192.168.1.23:81/svn/ultrasmartmailernew
+
+
+
+2014-08-12T11:39:01.481342Z
+5
+ankit
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ca9ce47c-fdaf-f14b-a18f-95b3869df89d
+
+
+
+
+
+
+0
+
+dialogs
+dir
+

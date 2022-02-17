@@ -1,0 +1,123 @@
+			
+@media only screen and (min-width:300px) and (max-width: 750px)  {
+			
+/* 			.wrapper{
+	display:none;
+} */
+			
+			
+#emailSmsCheckbox{
+	display: flex;
+    
+    justify-content: center;
+    align-items: center;
+		}
+		
+#addFollowupMemberRowBtn{
+	
+	float: right;
+    margin-bottom: -43px;
+    margin-top: -48px;
+}
+
+#followupemployeeidBtn{
+	margin-right: 45px;
+}
+
+#navForMobile{ 
+   	margin-right: 0px;
+    flex-direction: column;
+    align-content: stretch;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+   }
+   
+#userli{
+	margin-right:10%;
+}
+
+#eeli{
+	position:absolute;
+}
+
+#cefli{
+	float:left;
+}
+
+#lfli{
+	margin-top:-14%;
+}
+
+#start-date{
+	margin-top:3%;
+}
+
+#end-date{
+	margin-left:110%;
+    margin-bottom:3%;
+}
+
+#dat2{
+    margin-top: -35px;
+    margin-left: 53px;
+
+}
+
+#sear2{
+margin-top: 8px;
+margin-right: 39%;
+}
+
+#pg{
+	margin-top: -50px;
+    margin-right: 39px;
+	
+}
+
+#pageSize{
+	    width: auto;
+    display: inline;
+}
+#123{
+	margin-top:-10.5%;
+}
+
+}
+
+#start-date{
+	height:35px;
+	color:#444;
+	border:1px solid;
+	border-color:lightgray;
+}
+
+#end-date{
+	height:35px;
+	color:#444;
+	border:1px solid;
+	border-color:lightgray;
+}
+
+	
+/* 	display: flex;
+    
+    justify-content: center;
+    align-items: center; */
+    
+    
+    #start-date:focus-visible{
+
+outline: medium;
+border-color:#a9b2d9;
+}
+
+#end-date:focus-visible{
+
+outline: medium;
+border-color:#a9b2d9;
+}
+
+    
+    
+    
